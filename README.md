@@ -1,11 +1,8 @@
-# Rock-Mine-Prediction
-An implementation of Logistic Regression for binary classification of SONAR dataset to predict Rock or Mine.  The project demonstrates data analysis, supervised learning, and performance evaluation using scikit-learn.
 
 # Rock vs Mine Prediction using Logistic Regression
 
 ## Project Overview
 This project implements a Machine Learning model to classify whether an object detected by SONAR signals is a **Rock** or a **Mine**.
-
 The model is trained using **Logistic Regression** on the SONAR dataset and evaluated using accuracy metrics.
 
 ## Dataset
